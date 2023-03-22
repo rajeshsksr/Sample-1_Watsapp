@@ -11,3 +11,7 @@ Author:Rajesh
 4.Attachments(Image,audio,Video)
 
 5.Hiding Last Seen
+
+6.Audio,Video call feature
+
+7.Adding status code
