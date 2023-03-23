@@ -21,3 +21,5 @@ Author:Rajesh
 9.Hiding about section
 
 10.Security and privacy
+
+11.Help
